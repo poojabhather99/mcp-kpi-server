@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/poojabhather99/mcp-kpi-server/actions/workflows/ci.yml/badge.svg)](https://github.com/poojabhather99/mcp-kpi-server/actions/workflows/ci.yml)
 
+**Live demo (runs in your browser):** https://poojabhather99.github.io/mcp-kpi-server/
+
 A [Model Context Protocol](https://modelcontextprotocol.io) server that lets an LLM client (Claude Desktop, Claude Code, or any MCP client) query an analytical database through a small set of safe, read-only tools.
 
 The demo database is **synthetic** (health-worker visits across four districts, generated deterministically with a seed). No real data is included.
